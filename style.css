@@ -210,9 +210,9 @@ nav ul li a.active {
   background-size: 200% 100%;
   background-position: left center;
   padding: 15px;
+  list-style: none;
   margin-bottom: 10px;
   border-left: 5px solid #00bcd4;
-  list-style:none;
   border-radius: 8px;
   box-shadow: 0 3px 6px rgba(0,0,0,0.3);
   transition: transform 0.3s ease, background-position 0.8s ease;
@@ -245,4 +245,3 @@ footer {
   .hero p { font-size: 1rem; }
   .btn { font-size: 0.9rem; }
 }
-
